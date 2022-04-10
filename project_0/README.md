@@ -1,17 +1,17 @@
 # Проект 0. Угадай число
 
 ## Оглавление
-[1. Описание проекта](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
-[5. Результат](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
-[6. Выводы](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
+[1. Описание проекта](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Описание-проекта)
+[2. Какой кейс решаем](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
+[5. Результат](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
+[6. Выводы](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
 
-:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
 
 
 ### Какой кейс решаем?
@@ -31,7 +31,7 @@
 ### Краткая информация о данных
 Входные данные отсутствуют
 
-:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
 
 ### Этапы работы над проектом  
 Рассмотрено 2 варианта алгоритмов по угадыванию числа: `random_predict` и `middle_predict`.
@@ -40,17 +40,17 @@
 
 *middle_predict* - ри каждой итеррации берется среднее число из диапазона, если число не угадано - это число становится новой границей диапазона в зависимости от ответа программы больше или меньше данное число относительно загаданного
 
-:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
 
 
 ### Результаты:  
 Алгоритм random_predict угадывает число в среднем за: 7 попыток
 Алгоритм middle_predict угадывает число в среднем за: 5 попыток
 
-:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
 
 
 ### Выводы:  
 В результате написания программы наглядно видно, что вариант с уменьшением диапазона в 2 раза приводит к более быстрому и стабильному угадыванию числа (в среднем 5 попыток против 7), чем при случайном определении числа из диапазона.
 
-:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/blob/main/project_0/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/albone-222/sf_ds_myproject/tree/main/project_0/README.md#Оглавление)
